@@ -34,7 +34,7 @@ npx prisma migrate dev --name init
 ## Seeds
 
 ```bash
-npm run seed
+npm run seed # TODO - mongo connection for seeds is not working
 ```
 
 ## Test
