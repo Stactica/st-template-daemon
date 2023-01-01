@@ -1,10 +1,15 @@
 {
   "compilerOptions": {
-    "sourceMap": true,
+    "rootDir": "src",
     "outDir": "dist",
-    "strict": true,
     "lib": ["esnext"],
-    "esModuleInterop": true
-  }
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*"]
 }
 

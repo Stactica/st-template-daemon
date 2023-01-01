@@ -1,4 +1,6 @@
 node_modules
 build
 dist
-
+*-error.log
+coverage
+junit.xml

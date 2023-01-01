@@ -1,5 +1,7 @@
 # ST Template Daemon
 
+![Build Status](https://github.com/Stactica/st-template-daemon/actions/workflows/build-and-push-image.yaml/badge.svg?branch=main)
+
 ## Requirements
 
 - Docker
@@ -41,4 +43,12 @@ npm run seed # TODO - mongo connection for seeds is not working
 
 ```bash
 npm test
+# npm test:ci # testing with coverage for continuous integration
 ```
+
+## TODO
+
+- Mongo seed debug
+- Prisma package publishing
+- Depencency checker
+- 1-click deploy
