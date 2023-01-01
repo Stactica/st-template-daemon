@@ -1,6 +1,6 @@
 # ST Template Daemon
 
-![Build Status](https://github.com/Stactica/st-template-daemon/actions/workflows/build-and-push-image.yaml/badge.svg?branch=main)
+![Build Status](https://github.com/Stactica/st-template-daemon/actions/workflows/test.yaml/badge.svg?branch=main)
 
 ## Requirements
 
