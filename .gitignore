@@ -4,4 +4,4 @@ dist
 *-error.log
 coverage
 junit.xml
-
+.env
